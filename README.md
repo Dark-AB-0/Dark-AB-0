@@ -10,17 +10,17 @@
 
 ### Languages
 
-* Python
-* C++
-* JavaScript
-* HTML
-* CSS
+*🐍 Python
+*⚙️ C++
+*🟨 JavaScript
+*🌐 HTML
+*🎨 CSS
 
 ### Tools
 
-* Git
-* GitHub
-* VS Code
+*🔧 Git
+*🐙 GitHub
+*💻 VS Code
 
 ### Currently learning
 
