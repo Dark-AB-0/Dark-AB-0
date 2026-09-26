@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Alan
 
-<!--
-**Dark-AB-0/Dark-AB-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer in progress
+🚀 Building projects and learning new technologies
+🧠 Interested in software development, automation and technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+### Languages
+
+* Python
+* C++
+* JavaScript
+* HTML
+* CSS
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+### Currently learning
+
+* Backend Development
+* SQL
+* APIs
+* Web Development
+
+---
+
+## 🚀 Featured Projects
+
+Coming soon...
+
+---
+
+## 📚 About Me
+
+I'm a developer in progress who enjoys learning by building projects and exploring new technologies.
+
+I believe the best way to learn programming is to build, make mistakes, solve problems and keep improving.
+
+---
+
+## 📫 Contact
+
+* GitHub
+* LinkedIn
