@@ -48,4 +48,3 @@ I believe the best way to learn programming is to build, make mistakes, solve pr
 ## 📫 Contact
 
 * GitHub
-* LinkedIn
