@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alan
+# 👋 Hi, I'm Dark AB
 
 💻 Developer in progress
 🚀 Building projects and learning new technologies
